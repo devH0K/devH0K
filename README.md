@@ -1,8 +1,12 @@
-### Hi there 👋
+### Olá!
+### Eu sou Leonardo Pegoretti, sejam bem vindo!
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=devH0K&show_icons=true&theme=dark).
 <br/>
+<br/>
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devH0K&theme=dark)
+<br/>
+<br/>
 
 ## Tecnologias
 
@@ -14,7 +18,9 @@
   <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-</div><br/>
+</div>
+
+
 
 <!--
 **devH0K/devH0K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
