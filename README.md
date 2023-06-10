@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=devH0K&show_icons=true&theme=dark)
+![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=devH0K&show_icons=true&theme=dark).
+<br/>
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devH0K&theme=blue-green)
 
 ## Tecnologias que eu uso no meu dia
