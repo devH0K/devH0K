@@ -1,5 +1,5 @@
 ### Olá!
-### Eu sou Leonardo Pegoretti, sejam bem vindo!
+### Eu sou Leonardo Pegoretti, seja bem vindo!
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=devH0K&show_icons=true&theme=dark).
 <br/>
