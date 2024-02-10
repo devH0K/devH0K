@@ -22,7 +22,7 @@
   <img align="center" alt="devhok-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
-
+![Snake animation](https://github.com/devH0K/devH0K/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **devH0K/devH0K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,5 +38,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Snake animation](https://github.com/devH0K/devH0K/blob/output/github-contribution-grid-snake.svg)
